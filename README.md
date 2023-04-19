@@ -19,6 +19,7 @@ De user scenario voor Nicollete gaat dan zijn
 Met de user needs bepaal ik wat de gebruiker precies nodigt heeft. Wat de gebruiker zoekt in de oplossing, wat de gebruiker nodig heeft. 
 
 ## 4 w vragen
+
 Who - 
 How - 
 What - 
