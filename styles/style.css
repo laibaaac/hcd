@@ -21,7 +21,6 @@ button:hover{
 button:focus{
     color: black;
     background-color: darkseagreen;
-
 }
 
 
@@ -29,8 +28,12 @@ textarea {
     width: 50%;
     height: 10em;
     border: solid 1px black;
+    padding: 1em;
 }
 
 textarea:hover{
     border: solid 2px blue;
+    cursor: pointer;
+
 }
+
