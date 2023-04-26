@@ -1,0 +1,19 @@
+button{
+    display:flex;
+    flex-direction: column;
+    border: none;
+    margin: 2em;
+    padding: 2em;
+}
+
+button:hover{
+    color: black;
+    background-color: darkseagreen;
+    cursor: pointer;
+}
+
+button:focus{
+    color: black;
+    background-color: darkseagreen;
+
+}
