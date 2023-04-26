@@ -23,3 +23,14 @@ button:focus{
     background-color: darkseagreen;
 
 }
+
+
+textarea {
+    width: 50%;
+    height: 10em;
+    border: solid 1px black;
+}
+
+textarea:hover{
+    border: solid 2px blue;
+}

@@ -31,6 +31,24 @@
 const buttons = document.getElementsByTagName("button");
 const textarea = document.getElementById("my-textarea");
 
+// for (let i = 0; i < buttons.length; i++) {
+//   buttons[i].addEventListener("mouseover", () => {
+//     const text = buttons[i].textContent;
+//     navigator.clipboard.writeText(text);
+//   });
+  
+//   buttons[i].addEventListener("focus", () => {
+//     const text = buttons[i].textContent;
+//     navigator.clipboard.writeText(text);
+//   });
+// }
+// textarea.addEventListener("paste", async (event) => {
+//   event.preventDefault();
+//   const text = await navigator.clipboard.readText();
+//   textarea.value = text;
+// });
+
+
 for (let i = 0; i < buttons.length; i++) {
   buttons[i].addEventListener("mouseover", () => {
     const text = buttons[i].textContent;
@@ -43,6 +61,7 @@ for (let i = 0; i < buttons.length; i++) {
   });
 }
 
-
-
-
+textarea.addEventListener("click", async () => {
+  const text = await navigator.clipboard.readText();
+  textarea.value = text;
+});
