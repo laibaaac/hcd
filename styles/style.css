@@ -1,20 +1,36 @@
 body{
     background-color: #ebfbe5;
 }
-
-
-p{
-    text-align: left;
-    font-weight: bold;
-    font-size: 1.5em;
+article{
+    text-align: center;
+    margin: 4em;
+    font-size: 1.2em;
+    line-height: 1.8em;
 }
-button{
+article span:first-of-type{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    
+}
+article span:nth-of-type(2){
+    text-align: center;
+    font-weight: bold;
+}
+
+
+button:first-of-type{
     display:flex;
     flex-direction: column;
     border: none;
     margin: 2em;
     padding: 2em;
+    background-color:  lightgray;
+    position: absolute;
+    top: 18em;
+    right: 0;
 }
+    
 
 button:hover{
     color: black;
@@ -28,11 +44,39 @@ button:focus{
 }
 
 
+  
+button:nth-of-type(2){
+    
+    border: none;
+    margin: 2em;
+    padding: 2em;
+    background-color:  lightgray;
+    position: absolute;
+    top: 50em;
+    right: 0;
+   
+}
+
+button:nth-of-type(2):hover{
+    color: black;
+    background-color: darkseagreen;
+    cursor: pointer;
+}
+
+button:nth-of-type(2):focus{
+    color: black;
+    background-color: darkseagreen;
+}
+
 textarea {
     width: 50%;
     height: 10em;
     border: solid 1px black;
     padding: 1em;
+    position: absolute;
+    top: 25em;
+    left: 26em;
+  
 }
 
 textarea:hover{
@@ -43,9 +87,16 @@ textarea:hover{
 
 #message {
     background-color: darkseagreen;
+
+    position: absolute;
+    bottom: 10em;
+    left: 42%;
+
+    font-size: 1.5em;
+
+
    
 }
-
   .explosion {
     position: absolute;
     top: 50%;
@@ -70,3 +121,40 @@ textarea:hover{
     }
   }
   
+  @media (max-width: 40em) {
+    article {
+      font-size: 0.8em;
+    }
+  }
+
+  @media (max-width: 768px) {
+    textarea {
+      position: static;
+      width: 80%;
+      margin: 2em auto;
+    }
+    
+    #message {
+      position: absolute;
+      margin: 2em auto;
+      text-align: center;
+    }
+    
+    button:first-of-type {
+      position: absolute;
+      margin: 2em auto;
+    }
+    
+    button:nth-of-type(2) {
+      position: absolute;
+      margin: 2em auto;
+    }
+  }
+
+  
+  
+  
+  
+  
+  
+ 
