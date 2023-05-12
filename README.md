@@ -144,14 +144,54 @@ Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de 
 
 <img width="800" alt="Schermafbeelding 2023-05-12 om 12 12 05" src="https://github.com/laibaaac/hcd/assets/94360732/71e274c1-f31e-40f4-bf7c-72e65ef62181">
 
-Voor de eerste test hadden wij niet zoveel tijd om een uitgebreide prototype te maken, ik ging dus eerst uitzoeken 
+Om mijn 1e test te kunnen bekijken, kun je van branch switchen en naar de branch test 1 gaan!
+
+Voor de eerste test hadden wij niet zoveel tijd om een uitgebreide prototype te maken, ik ging dus eerst uitzoeken hoe ik een tekst kan kopieren en plakken. Ik heb uiteindelijk verschillende eventlisteners op de button gezet waardoor je met de button de tekst kan kopieren en plakken in een textarea. 
+
+Tijdens het testen heb ik een paar vragen gesteld (zie hieronder) en even uitgelegd hoe mijn prototype werkt. Ze was er erg enthousiast over. Dit was ook meteen de eerste keer dat mijn prototype met de wacom tablet werd getest. Zo heb ik meteen gezien dat ze de tablet aan de rechterkant zet, om zo makkelijk te navigeren door mijn website. 
 
 ### Test set-up
 
+### Vragen
+
+- Wat voor tekentablet gebruikt u? Wat voor functionaliteiten heeft die? 
+
+- In hoeverre interacteert u met technologie? / Gebruikt u een telefoon?
+
+- Wat weet de gebruiker niet en wat zou de gebruiker wel willen leren?
+
+- Waarom gebruikt u een tablet? 
+
+- Waarom gebruikt u een spraaksoftware?  Welke gebruikt u?
+
+- Wat zijn uw irritaties aan applicaties/websites met uw spraaksoftware en tekentablet?
+
+- Wat voor hindernissen komt u tegen? Wat wilt u absoluut niet terugzien in de oplossing?
+
+- Wat voor programma’s en bestanden gebruikt u?
+
+
+
+### Devices 
+- tekentablet met pen (wacom)
+- laptop
+
+
 ### Bevindingen 
 
-### conclusie
+- kleuren kan ze niet goed zien (groen)
+- drukken van buttons gaat moeilijk 
+- tekst wat groter maken 
+- gebruikt rechterhand om te navigeren (focus hierop)
+- interactie met buttons makkelijk, alleen groter maken
+- de kopieren en plakken misschien apart zetten 
+- haar tablet is anders ingesteld op haar laptop
+- ze drukt best hard op haar tablet om bijvoorbeeld op de button te klikken 
 
+
+### conclusie
+Na het testen heb ik een paar bevindingen genoteerd (hierboven) en die ga ik zeker meenemen naar de volgende prototype. 
+Haar primaire doel wordt bereikt, maar er kan nog een hoop erbij. 
 
 
 ## Test 2 
@@ -159,21 +199,55 @@ Voor de eerste test hadden wij niet zoveel tijd om een uitgebreide prototype te 
 
 ![0b76ee53-2c40-45ca-ba46-4b8b064dccf4](https://github.com/laibaaac/hcd/assets/94360732/905ea927-260f-4ccb-88ec-5ed3138f2986)
 
+Voor deze prototype heb ik dingen toch net wat anders aangepakt, ik heb de bevindingen van de vorige test meegenomen en ze verwerkt in mijn prototype. 
+Ik heb ipv dat je op een button klikt (want ze heeft moeite met klikken en als ze klikt, klikt ze heel hard op de tablet), heb ik de functie gezet, wanneer ze hovert over een button wordt de tekst automatisch geplakt en wanneer ze hovert over de textarea wordt het automatisch geplakt. Ze hoeft niet op iets te klikken. 
 
+Tijdens de test ging het best fout, haar scroll gedrag is totaal anders dan verwacht. 
+Ik heb de tekst onder elkaar gezet en wanneer ze weer terug gaat naar de textarea hovert ze over de buttons en dus pakt ze de text vanuit de button die het dichtsbij de textarea is. 
+Dit moet ik zeker veranderen. 
 
+Verder vondt ze de concept niet echt duidelijk en vroeg steeds als ze het goed deed. Wat ik de volgende keer ga doen is steeds feedback geven. 
 
 ### Test set-up
 
+### devices 
+- tekentablet met pen (wacom)
+- laptop
+
 ### Bevindingen
+- De groene kleur is bij haar echt op te merken
+- ze zoekt steeds voor bevestiging, ze wilt weten als ze het goed doet
+- het concept is niet echt duidelijk bij haar 
+- ipv dat ze over buttons hovert, is het beter als ze erop klikt, want het pakt steeds de laatste button want ze gaat naar boven en dan neemt de laatste button de tekst. 
+- Moet duidelijke feedback erin verwerken
+- Desnoods complimentjes erbij zetten, dat ze het goed doet. Ze is twijfelachtig
 
 ### conclusie
+Ik had iets anders in mijn hoofd voordat ik ging testen, het ging zwaar fout met het hoveren en selecteren van de tekst.
+Ik moet mijn prototype zeker aanpassen. Naar de volgende prototype, we go!
 
 
 ## Prototype V3
 <img width="500" alt="Schermafbeelding 2023-05-12 om 04 32 19" src="https://github.com/laibaaac/hcd/assets/94360732/34908d0d-3439-4317-a66b-89c70ee2ff8a">
 
+[Link van de prototype](https://laibaaac.github.io/hcd/) 
 
-Na het uitvoeren van test 2 heb ik de nieuwste bevinden erin gezet, 
+
+Na het uitvoeren van test 2 heb ik weer mijn prototype voor de laatste keer aangepast. 
+
+De volgende elementen heb ik in mijn prototype toegepast:
+- Kleur groen 
+- De buttons aan de rechterkant gezet, zodat ze makkelijker erbij kan komen. 
+- De buttons kunnen klikken
+- Aparte buttons hebben voor kopieren en plakken 
+- Door C op het toetsenbord te drukken, kan ze de tekst kopieren
+- Door V op het toetsenbord te drukken, kan ze de tekst plakken
+- Zien dat de tekst wordt geselecteerd
+- De tekst wat groter maken 
+- Feedback geven als de tekst is gekopieerd 
+- Feedback geven als de tekst is niet gekopieerd 
+- Feedback geven als de tekst is geplakt
+- Een thumbs up als ze klaar is met het plakken van de tekst. 
 
 
 
