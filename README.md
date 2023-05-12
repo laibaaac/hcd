@@ -142,7 +142,7 @@ Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de 
 
 ## Test 1
 
-<img width="500" alt="Schermafbeelding 2023-05-12 om 12 12 05" src="https://github.com/laibaaac/hcd/assets/94360732/71e274c1-f31e-40f4-bf7c-72e65ef62181">
+<img width="800" alt="Schermafbeelding 2023-05-12 om 12 12 05" src="https://github.com/laibaaac/hcd/assets/94360732/71e274c1-f31e-40f4-bf7c-72e65ef62181">
 
 
 Tijdens de eerste test maakte wij meer kennis met Nicolette 
