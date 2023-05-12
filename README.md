@@ -2,7 +2,7 @@
 ### Copy and Paste made easier
 
 ## inhoudsopgave
-  + [Copy and Paste made easier](#copy-and-paste-made-easier)
+
   * [Onderzoeksvraag](#onderzoeksvraag)
   * [Probleemdefinitie](#probleemdefinitie)
   * [Oplossing](#oplossing)
