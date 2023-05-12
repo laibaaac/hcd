@@ -140,7 +140,8 @@ Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de 
 
 
 
-## Test 1 
+## Test 1
+
 Tijdens de eerste test maakte wij meer kennis met Nicolette 
 
 ### Test set-up
@@ -153,6 +154,7 @@ Tijdens de eerste test maakte wij meer kennis met Nicolette
 
 ## Test 2 
 
+
 ### Test set-up
 
 ### Bevindingen
@@ -161,6 +163,7 @@ Tijdens de eerste test maakte wij meer kennis met Nicolette
 
 
 ## Prototype V3
+<img width="500" alt="Schermafbeelding 2023-05-12 om 04 32 19" src="https://github.com/laibaaac/hcd/assets/94360732/34908d0d-3439-4317-a66b-89c70ee2ff8a">
 Na het uitvoeren van test 2 heb ik de nieuwste bevinden erin gezet, 
 
 
