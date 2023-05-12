@@ -60,6 +60,7 @@ Nicolette kan beperkt haar armen en benen gebruiken, Ze gebruikt een rolstoel om
 
 ## Oplossing / Concept 
 Wat heb ik nou voor Nicolette gemaakt?
+
 Ik heb een prototype speciaal voor Nicolette gemaakt. De prototype bevat een artikel, 2 buttons en een textarea. Nicolette kan een artikel kopieren met een button en de tekst plakken in de textarea met een button. De buttons kan ze makkelijk aanklikken met haar tekentablet. Naast de buttons kan ze de toetsenbord gebruiken, de key "C" kan ze gebruiken om de tekst te kopieren en de key "V" kan ze gebruiken om de tekst te plakken. 
 Ik ben op deze oplossing gekomen, door een aantal user tests af te nemen en de bevindingen steeds toe te passen. Meer hier over kun je vinden hieronder!
 
@@ -90,7 +91,7 @@ Mijn user is Nicolette, mijn user scenario is gebasseerd op haar.
 **Met de user needs bepaal ik wat de gebruiker precies nodigt heeft. Wat de gebruiker zoekt in de oplossing.**
 De gebruiker (Nicolette) wilt een makkelijker manier hebben om te knippen en plakken. Ze kan de muis niet gebruiken en ook weinig het toetsenbord, Aan mij de taak om een prototype te maken waar Nicolette makkelijker de tekst kan knippen en plakken. 
 
-### de 4 W vragen
+### De 4 W vragen
 
 #### Who   
 Nicolette Besemer is een 76 jarige vrouw. Ze is een geoloog van beroep geweest en bezoekt graag natuurkundige wonderen. Ze is echt gepassioneerd door de natuur. 
@@ -132,7 +133,8 @@ Verder heb ik een artikel per stuk verdeeld. Da hoef ze niet te scrollen, maar z
 
 ### Prioritise Identity
 Prioritise identity principe gaat over de identiteit van de test persoon. Je gaat kijken wat de passie van de test persoon is, wat hij leuk vindt om te doen. Op basis van hun eigenschappen en identiteit ga je een prototype maken.
- > Wij hebben tijdens de user tests meer kennis mogen maken met Nicolette, we kwamen meer te weten over haar passie, hoe erg betrokken is met toegankelijkheid, haar hobbies en zelfs haar bucketlist (ze wilt heel graag naar ijsland om het noorderlicht met haar eigen ogen te bekijken). Nicolette is een geoloog van beroep geweest en bezoekt graag natuurkundige wonderen, verder is ze ene vrijwilliger bij Gemeente Amsterdam en organiseert activiteiten voor gehandicapten. Daarnaast organiseerd ze ook veel voor de buurt en voor andere vrijwilligers.
+ 
+ Wij hebben tijdens de user tests meer kennis mogen maken met Nicolette, we kwamen meer te weten over haar passie, hoe erg betrokken is met toegankelijkheid, haar hobbies en zelfs haar bucketlist (ze wilt heel graag naar ijsland om het noorderlicht met haar eigen ogen te bekijken). Nicolette is een geoloog van beroep geweest en bezoekt graag natuurkundige wonderen, verder is ze ene vrijwilliger bij Gemeente Amsterdam en organiseert activiteiten voor gehandicapten. Daarnaast organiseerd ze ook veel voor de buurt en voor andere vrijwilligers.
 
 ### Add Nonsense
 Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de testen wou Nicolette steeds bevestiging krijgen, dat wat ze doet en waar ze navigeert door de website wel goed is. Hierdoor heb iets toegepast specifiek voor haar. Wanneer Nicolette klaar is met het plakken en knippen van de tekst ziet ze een aantal 👍 verschijnen. Zo hoop ik haar een bevestiging te geven, zonder dat iemand erbij is en haar te motiveren dat ze het goed doet! 
