@@ -122,13 +122,12 @@ Door dit principe te hanteren zijn we wat dieper in gaan duiken over de situatie
 Op basis van deze informatie heb ik een geschikte prototype voor haar kunnen maken.
 
 ### Ignore Conventions
+Bij het ontwerpen voor een grote doelgroep gebruiken we ontwerppatronen. Maar als we mensen met een handicap willen opnemen hierin, moeten we deze patronen indien nodig heroverwegen, na het bestuderen van de situatie (in de study situation).  Met de ignore conventions, wordt bedoeld dat je prototype gaat maken die buiten de norm gaat. Het prototype is niet gemaakt voor een groot groep mensen, maar alleen voor het een specifiek persoon. 
 
+Kopieren en plakken is heel makkelijk voor de gemiddelde gebruiker, maar niet iedereen vindt het net zo makkelijk. Nicolette al helemaal niet, zij heeft een beperking, waardoor kopieren en plakken heel moeilijk gaat. 
 
-<!-- Als je voor een groot doelgroep iets ontwerp, moet je ontwerppatronnen gebruiken want mensen weten hoe die werken en kunnen ze makkelijk de website gebruiken. Met de ignore conventions, wordt bedoeld dat je prototype gaat maken die buiten de norm gaat Het prototype hoeft niet voor een groot groep mensen passen maar alleen voor het persoon die het prototype voor bedoeld is.
-
-Om tekst te kopiëren en plakkenmoet je normaal gesproken, cnt + v en cntr + c gebruiken. Maar voor Nicolette heb ik andere manieren gevonden waarvan ze makkelijk tekst kan kopiëren en plakken. Ik heb ervoor gezorgd dat ze met buttons tekst kan selecteren in plaats van slepen me haar pen. Ook zorgde ik ervoor dat ze met een zo min mogelijk handelingen/ combinaties van toets een actie kan uitvoeren.
-
-Verder heb ik een artikel per stuk verdeeld. Da hoef ze niet te scrollen, maar ze kan op de knop klikken en dan gaat ze naar de volgende paragraaf. Ik heb de knoppen op de rechterkant geplaatst, wat eigenlijk buiten de norm is. Want Nicolette ze haar tekentablet aan de rechterkant van haar laptop, dus door de knoppen aan rechterkant te plaatsen hoeft ze niet veel slepen. -->
+Op de volgende punten van Nicolette heb ik rekening gehouden tijdens het maken van de prototype. 
+Om toch nog kopieren en plakken makkelijk te maken voor alleen Nicolette, heb ik de key "C" en "V" gebruikt om een tekst te kopieren en te plakken. Verder kan ze ook met buttons (die ze met de tekentablet kan aantikken) kopieren en plakken. Zo hoop ik dat voor Nicolette kopieren en plakken toch nog makkelijk wordt en hoeft ze ook minder mogelijk handelingen uit te voeren. 
 
 
 ### Prioritise Identity
@@ -141,9 +140,7 @@ Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de 
 
 
 
-
 ## Test 1
-
 Tijdens de eerste test maakte wij meer kennis met Nicolette 
 
 ### Test set-up
