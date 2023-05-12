@@ -1,5 +1,7 @@
 # Human Centered Design 
 ### Copy and Paste made easier
+<img width="1439" alt="Schermafbeelding 2023-05-12 om 04 32 19" src="https://github.com/laibaaac/hcd/assets/94360732/34908d0d-3439-4317-a66b-89c70ee2ff8a">
+
 
 ## inhoudsopgave
 
