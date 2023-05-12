@@ -157,6 +157,9 @@ Voor de eerste test hadden wij niet zoveel tijd om een uitgebreide prototype te 
 ## Test 2 
 <img width="500" alt="Schermafbeelding 2023-05-12 om 12 14 58" src="https://github.com/laibaaac/hcd/assets/94360732/d4d0ff5b-1d22-4a4b-834d-e8063a2b9033">
 
+![0b76ee53-2c40-45ca-ba46-4b8b064dccf4](https://github.com/laibaaac/hcd/assets/94360732/905ea927-260f-4ccb-88ec-5ed3138f2986)
+
+
 
 
 ### Test set-up
