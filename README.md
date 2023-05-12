@@ -127,23 +127,24 @@ Bij het ontwerpen voor een grote doelgroep gebruiken we ontwerppatronen. Maar al
 Kopieren en plakken is heel makkelijk voor de gemiddelde gebruiker, maar niet iedereen vindt het net zo makkelijk. Nicolette al helemaal niet, zij heeft een beperking, waardoor kopieren en plakken heel moeilijk gaat. 
 
 Op de volgende punten van Nicolette heb ik rekening gehouden tijdens het maken van de prototype. 
-Om toch nog kopieren en plakken makkelijk te maken voor alleen Nicolette, heb ik de key "C" en "V" gebruikt om een tekst te kopieren en te plakken. Verder kan ze ook met buttons (die ze met de tekentablet kan aantikken) kopieren en plakken. Zo hoop ik dat voor Nicolette kopieren en plakken toch nog makkelijk wordt en hoeft ze ook minder mogelijk handelingen uit te voeren. 
+Om toch nog kopieren en plakken makkelijk te maken voor alleen Nicolette, heb ik de key "C" en "V" gebruikt om een tekst te kopieren en te plakken. Gebruikelijk is het een shortkey en kan je alleen maar kopieren en plakken met command+c en command+v. Verder kan ze ook met buttons (die ze met de tekentablet kan aantikken) kopieren en plakken. Zo hoop ik dat voor Nicolette kopieren en plakken toch nog makkelijk wordt en hoeft ze ook minder mogelijk handelingen uit te voeren. 
 
 
 ### Prioritise Identity
 Prioritise identity principe gaat over de identiteit van de test persoon. Je gaat kijken wat de passie van de test persoon is, wat hij leuk vindt om te doen. Op basis van hun eigenschappen en identiteit ga je een prototype maken.
  
  Wij hebben tijdens de user tests meer kennis mogen maken met Nicolette, we kwamen meer te weten over haar passie, hoe erg betrokken is met toegankelijkheid, haar hobbies en zelfs haar bucketlist (ze wilt heel graag naar ijsland om het noorderlicht met haar eigen ogen te bekijken). Nicolette is een geoloog van beroep geweest en bezoekt graag natuurkundige wonderen, verder is ze ene vrijwilliger bij Gemeente Amsterdam en organiseert activiteiten voor gehandicapten. Daarnaast organiseerd ze ook veel voor de buurt en voor andere vrijwilligers.
+ Tijdens het testen zei ze dat ze een beperkte zicht heeft en kleuren niet goed kan zien. Ze gaf aan dat groen haar favoriete kleur is, door dit heb ik mijn hele website groen gemaakt. Ik dacht ik personaliseer mijn website, zodat ze het wat leuker vindt om mijn prototype te gebruiken. 
 
 ### Add Nonsense
 Met de add nonsense principe dacht ik lang na wat ik wil laten zien. Tijdens de testen wou Nicolette steeds bevestiging krijgen, dat wat ze doet en waar ze navigeert door de website wel goed is. Hierdoor heb iets toegepast specifiek voor haar. Wanneer Nicolette klaar is met het plakken en knippen van de tekst ziet ze een aantal 👍 verschijnen. Zo hoop ik haar een bevestiging te geven, zonder dat iemand erbij is en haar te motiveren dat ze het goed doet! 
 
 
-
 ## Test 1
-Tijdens de eerste test maakte wij meer kennis met Nicolette 
+We hadden voor de eerste 
 
 ### Test set-up
+
 
 ### Bevindingen 
 
