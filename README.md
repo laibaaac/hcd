@@ -38,6 +38,7 @@
   * [Bevindingen](#bevindingen-1)
   * [conclusie](#conclusie-1)
 - [Prototype V3](#prototype-v3)
+- [Test 3 maybe?](#test-3-maybe-)
 - [conclusie](#conclusie-2)
 - [Bronnen](#bronnen)
 
@@ -263,7 +264,8 @@ De volgende elementen heb ik in mijn prototype toegepast:
 - Feedback geven als de tekst is geplakt
 - Een thumbs up als ze klaar is met het plakken van de tekst. 
 
-
+### Test 3 maybe?
+Als ik nog een kans kreeg om de 3e test uit te voeren, zou ik ten eerste laten zien wat ik tot nu toe heb gemaakt, verder zou ik ook proberen om via haar telefoon de prototype te testen. Ik heb in ieder geval al mijn prototype responsive gemaakt, als ik de kans kreeg zou ik zeker op de telefoon willen testen en met haar spraaksoftware experimenteren!
 
 ## conclusie
 Tijdens dit project heb ik ontzettend veel geleerd. Gedurend deze opleiding is er constant rekening gehouden met toegankelijkheid, maar dit is de eerste keer dat we testen met daadwerkelijke gebruikers die een beperking hebben.
