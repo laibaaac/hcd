@@ -92,21 +92,21 @@ De gebruiker (Nicolette) wilt een makkelijker manier hebben om te knippen en pla
 
 ### de 4 W vragen
 
-#### Who  - 
+#### Who   
 Nicolette Besemer is een 76 jarige vrouw. Ze is een geoloog van beroep geweest en bezoekt graag natuurkundige wonderen. Ze is echt gepassioneerd door de natuur. 
 Door haar passie is ze een vrijwilleger bij de gemeente Amsterdam, waar ze veel activiteiten organiseert voor gehandicapten. Daarnaast organiseerd ze ook veel voor de buurt en voor andere vrijwilligers.
 Nicolette kan beperkt gebruiken van haar ledematen. Ze kan deels haar arm en benen gebruiken. Ze gebruikt een rolstoel om zich te verplaatsen. Door haar beperking maar ze veel, hierdoor houdt zich Nicolette veel bezig met toegankelijkheid.  
 
-#### How -
+#### How 
 Nicolette heeft een laptop waar ze veel documenten opslaat. Om haar laptop te bedienen gebruikt zij een teken tablet Wacom Intuos S en dragon (een spraaksoftware). Haar tekentablet gebruikt ze als een muis waarmee ze kan klikken. Voor haar is het makkelijker om de tablet met een pen te bedienen, dan een muis. Verder gebruikt ze de spraaksoftware als een alternatief voor de toetsenboard. Ze heeft ook moeite om een toetsenbord te gebruiken, ze gebruikt haar rechter hand voor de meeste taken en ze heeft soms moeite om bijvoorbeeld haar hand te richten op een bepaalde key. Door deze reden gebruikt zij liever een spraaksoftware. 
 
 
 
-#### What -
+#### What 
 Nicolette leest graag artikelen op haar laptop, die wilt ze graag delen met haar collega's of het makkelijker opslaan. Voor haar gaat dit nog moeilijk, ze kan door haar beperking niet zo goed het toetsenbord en de muis bedienen. Nicolette heeft moeite om ingewikkelde handelingen uit te voeren, handelingen zoals sneltoets, met de pen slepen om te scrollen en tekst te selecteren. 
 
 
-#### Why - 
+#### Why 
 Mijn prototype geeft Nicolette de mogelijkheid om tekst kopiëren, selecteren en plakken met een button en het toetsenbord. Hierdoor hoeft ze de tekst niet op verschillende manieren te selecteren. De tekst kan ze makkelijk door middel van een button knippen en plakken!. Hierdoor kan ze op een makkleijk manier knippen en plakken. Mijn prototype ondersteunt de tools die zij gebruikt, de tekentablet. Door mijn prototype bereikt ze haar doel en dat is om makkelijk zonder hulp te kopiëren en plakken met haar tablet.
 
 
